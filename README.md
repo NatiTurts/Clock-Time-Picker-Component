@@ -10,7 +10,6 @@ description: A re-usable component that allows you to select times through a use
 urlFragment: ClockTimePickerComponent
 ms.date: 1/12/2022
 author: Nati Turtledove
-ms.author: pnp
 level: beginner
 ms.prod: power-apps
 ---
@@ -111,13 +110,6 @@ You can also use the [Power Apps CLI](https://docs.microsoft.com/powerapps/devel
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 
-## Support
-
-While we don't support samples, if you encounter any issues while using this sample, you can [create a new issue](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml&sample=ClockTimePickerComponent&authors=@NatiTurts&title=ClockTimePickerComponent%20-%20).
-
-For questions regarding this sample, [create a new question](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=question.yml&sample=ClockTimePickerComponent&authors=@NatiTurts&title=ClockTimePickerComponent%20-%20).
-
-Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=ClockTimePickerComponent&authors=@NatiTurts&title=ClockTimePickerComponent%20-%20).
 
 ## For more information
 
@@ -125,4 +117,3 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 - [Overview of creating apps in Power Apps](https://docs.microsoft.com/powerapps/maker/)
 - [Power Apps canvas apps documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/)
 
-<img src="https://telemetry.sharepointpnp.com/powerapps-samples/samples/ClockTimePickerComponent" />
